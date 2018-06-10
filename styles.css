@@ -1,0 +1,11 @@
+#top{
+    border-bottom-style: solid;
+}
+
+#footer{
+    border-bottom-style: solid;
+}
+
+body *{
+    border-bottom-style: solid;
+}
